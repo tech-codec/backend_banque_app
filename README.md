@@ -2,6 +2,8 @@
 .mise en place d'une semis application de gestion de compte bancaire avec un système d'authentification et de gestion de compte complet.
 pour le mettre en place j'ai utilis les technologies  spring boot 5.2.8; mysql, itextpdf, mapstruct;  springsercurity ; jwt etc...
 
+c'est une application de gestion de compte bancaire elle permet d'éffectuer les opérations telques les versements; les retraits, les dépots dans un compte. l'utilisateur pour avoir acces à l'application doit se créer un compte puis un email lui est envoyé pour l'activation de compte et après avoir activé son compte il peut se créer soit un compte épargne soit un compte courant et effectué différentes oppérations sur son compte le client peut gérer son profile en effectuant toute les modifications qu'il veut sur son profil.
+
 ## Présentation de la page d'accueil de l'application:
 
 ![page_accueil](https://user-images.githubusercontent.com/72146213/211161218-afd62ce9-2164-489b-b5e6-223b54461795.PNG)
